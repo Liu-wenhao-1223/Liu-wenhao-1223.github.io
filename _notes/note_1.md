@@ -1,7 +1,7 @@
 ---
 title: 'Notes 1'
 date: 2023-08-14
-
+permalink: /notes/note_1/
 tags:
   - cool posts
   - category1
