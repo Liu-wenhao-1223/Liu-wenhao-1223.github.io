@@ -1,7 +1,6 @@
 ---
 title: "Design and Implementation of Permanent Magnet Synchronous Motor Control System Based on CAN Bus"
-excerpt: "Short description of the project<br/><img src='/images/FOC_Design/control_circuit.png' width='153' height='255'> <img src='/images/FOC_Design/drive_circuit.png' width='339' height='255'>"
-excerpt: "Programe flow chart of the Controller<br/><img src='/images/FOC_Design/program flow chart.png'>"
+excerpt: "Short description of the project<br/><img src='/images/FOC_Design/control_circuit.png' width='153' height='255'> <img src='/images/FOC_Design/drive_circuit.png' width='339' height='255'> <br/>Programe flow chart of the Controller<br/><img src='/images/FOC_Design/program flow chart.png'>"
 collection: project
 ---
 
