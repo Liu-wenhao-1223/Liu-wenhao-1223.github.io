@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 Resume
-======
+------
 You can find my CV here: [Resume from Wenhao Liu](../assets/Resume from Wenhao Liu.pdf).
