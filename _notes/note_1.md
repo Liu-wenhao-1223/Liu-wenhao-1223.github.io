@@ -1,9 +1,9 @@
 ---
-title: 'Note 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Summary of EE general course selection guidlines'
+date: 2023-10-27
+permalink: /notes/note_1/
 tags:
-  - cool posts
+  - course selection
   - category1
   - category2
 ---
