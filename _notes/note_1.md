@@ -10,7 +10,7 @@ tags:
   - course selection
 ---
 
-This is my summary of the selection of graduate courses at USC. I think it is useful to the students who major in ECE machine learning & data science and EE general students who are going to choose the learning track of [Computer Architecture](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25921&returnto=7300), [VLSI Design](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25474&returnto=7300) or [robotics](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25465&returnto=7299). 
+This is my summary of the selection of graduate courses at USC. I think it is useful to the students who major in ECE machine learning & data science and EE general students who are going to choose the learning track of [Computer Architecture](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25921&returnto=7300), [VLSI Design](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25474&returnto=7300) or [Robotics](https://catalogue.usc.edu/preview_program.php?catoid=18&poid=25465&returnto=7299). 
 
 Headings are cool
 ======
