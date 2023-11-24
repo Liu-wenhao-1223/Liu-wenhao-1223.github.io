@@ -16,7 +16,7 @@ This is my summary of the selection of graduate courses at USC. I think it is us
 
 *You can find your advisor's contact information from this [link](https://viterbigrad.usc.edu/academic-advisement/).
 
-For ECE Machine Learning & Data Science([English]/[Chinese](../files/Course_selection/Course_ selection_MLDS_CN.pdf)):
+For ECE Machine Learning & Data Science([English]/[Chinese](../../files/Course_selection/Course_selection_MLDS_CN.pdf)):
 
 I will keep updating this note. 
 ======
