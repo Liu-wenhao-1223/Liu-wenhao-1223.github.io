@@ -11,5 +11,5 @@ If you're interested, please take a look at the article: [Design and Implementat
 
 <video width="320" height="600" controls style="display: block; margin: auto;"><source src="/images/FOC_Design/Motor_start-stop_forward_and_reverse_rotation.mp4" type="video/mp4"></video><p style="text-align: center;">Motor start-stop forward and reverse rotation</p> 
 
-<iframe src="../../files/Design_and_Implementation_of_Permanent_Magnet_Synchronous_Motor_Control_System_Based_on_CAN_Bus_from_Wenhao_Liu.pdf" width="1000" height="1200"></iframe>
+# <iframe src="../../files/Design_and_Implementation_of_Permanent_Magnet_Synchronous_Motor_Control_System_Based_on_CAN_Bus_from_Wenhao_Liu.pdf" width="1000" height="1200"></iframe>
 
