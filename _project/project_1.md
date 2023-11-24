@@ -15,13 +15,13 @@ In the 1980s, the development of permanent magnet materials, especially rubidium
 
 <!--控制电路原理图-->
 <div style="text-align: center;"> <img src="/images/FOC_Design/FOC_MCU_SchDoc_00.png" alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Control part circuit schematic</p> </div>
-<div style="text-align: center;"> <img src="/images/FOC_Design/control_circuit.png" width='153' height='255' alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Control part circuit PCB</p> </div>
+<!--<div style="text-align: center;"> <img src="/images/FOC_Design/control_circuit.png" width='153' height='255' alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Control part circuit PCB</p> </div>-->
 
 <!--驱动电路原理图-->
 <div style="text-align: center;"> <img src="/images/FOC_Design/FOC_Drive_SchDoc_00.png" alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Drive part circuit schematic</p> </div>
-<div style="text-align: center;"> <img src="/images/FOC_Design/drive_circuit.png" width='339' height='255' alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Drive part circuit PCB</p> </div>
+<!--<div style="text-align: center;"> <img src="/images/FOC_Design/drive_circuit.png" width='339' height='255' alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Drive part circuit PCB</p> </div>-->
 
-<style>.image-container {display: flex; /* 使用Flexbox布局 */justify-content: center; /* 使图片和文字居中 */}.image-with-caption {text-align: center; /* 使图片和文字居中对齐 */margin: 10px; /* 在图片之间添加一些间距 */}.image-caption {font-size: 18px !important;color: #666;}</style><div class="image-container"> <div class="image-with-caption"><img src="/images/FOC_Design/FOC_Drive_SchDoc_00.png" width='579' height='382' alt="First Image"><p class="image-caption">BLDC magnetic core</p> </div> <div class="image-with-caption"><img src="/images/FOC_Design/drive_circuit.png" width='339' height='255' alt="Second Image"><p class="image-caption">Surface Mount Type PMSM magnetic core</p></div> </div>
+<style>.image-container {display: flex; /* 使用Flexbox布局 */justify-content: center; /* 使图片和文字居中 */}.image-with-caption {text-align: center; /* 使图片和文字居中对齐 */margin: 10px; /* 在图片之间添加一些间距 */}.image-caption {font-size: 14px !important;color: #666;}</style><div class="image-container"> <div class="image-with-caption"><img src="/images/FOC_Design/control_circuit.png" width='153' height='255' alt="First Image"><p class="image-caption">Control part circuit PCB</p> </div> <div class="image-with-caption"><img src="/images/FOC_Design/drive_circuit.png" width='339' height='255' alt="Second Image"><p class="image-caption">Drive part circuit PCB</p></div> </div>
 
 
 
