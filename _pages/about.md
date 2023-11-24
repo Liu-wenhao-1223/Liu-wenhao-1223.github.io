@@ -20,4 +20,6 @@ At the end of my undergraduate year, I chose to develop a motor controller as my
 
 Something I'm interested in
 ======
-In my spare time, I like playing games and making models. After I learned embedded design by myself, I began to enjoy drawing the circuits and programming them to implement some functions. Besides, I'm also interested in learning about digital products like computers, so I sometimes help my friends choose laptops or desktop accessories and even install their computers for free. Most of the projects I have been involved in since my undergraduate degree are hardware oriented, so I want to learn more about algorithm application in engineering during my graduate study to satisfy my curiosity and enrich my technology stack. 
+In my spare time, I like playing games and making models. After I learned embedded design by myself, I began to enjoy drawing the circuits and programming them to implement some functions. Besides, I'm also interested in learning about digital products like computers, so I sometimes help my friends choose laptops or desktop accessories and even install their computers for free. 
+
+In terms of study, I'm more inclined to learn and do some things that can have practical applications, such as embedded systems and robots. Because most of the projects I have been involved in since my undergraduate degree are hardware-oriented, so I want to learn more about theory and algorithm application in engineering during my graduate study to satisfy my curiosity and enrich my technology stack. 
