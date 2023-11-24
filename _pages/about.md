@@ -20,4 +20,4 @@ At the end of my undergraduate year, I chose to develop a motor controller as my
 
 Something I'm interested in
 ======
-I will update as soon as possible.
+In my spare time, I like playing games and making models. In addition to playing with robot models produced by model companies, I also like to model and print them by myself. I once bought an FDM 3D printer and a DLP 3D printer at my own expense to make models during my undergraduate years, although most of the products were of poor accuracy because these printers were very cheap. After I learned embedded design by myself, I began to enjoy drawing the circuits and programming them to implement some functions. Besides, I'm also interested in learning about digital products like computers, so I sometimes help my friends choose laptops or desktop accessories and even install their computers for free. Most of the projects I have been involved in since my undergraduate degree are hardware oriented, so I want to learn more about algorithm application in engineering during my graduate study to satisfy my curiosity and enrich my technology stack. 
