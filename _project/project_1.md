@@ -20,7 +20,7 @@ In the 1980s, the development of permanent magnet materials, especially rubidium
 <!--<video width="320" height="600" controls style="display: block; margin: auto;"><source src="/images/FOC_Design/Motor_start-stop_forward_and_reverse_rotation.mp4" type="video/mp4"></video><p style="text-align: center;">Motor start-stop forward and reverse rotation</p> <video width="320" height="600" controls style="display: block; margin: auto;"><source src="/images/FOC_Design/Motor_start-stop_forward_and_reverse_rotation.mp4" type="video/mp4"></video><p style="text-align: center;">Motor start-stop forward and reverse rotation</p> -->
 
 <font size="5">Project Video Presentation</font>
-======
+
 <style>.video-container {display: flex; /* 使用Flexbox布局 */ justify-content: center; /* 居中对齐Flex项 */ align-items: flex-start; /* 使Flex项在交叉轴的起点对齐 */ flex-wrap: wrap; /* 允许Flex项换行 */} .video-with-caption {text-align: center; /* 文本居中 */ margin: 10px; /* 添加间距 */} .video-caption {font-size: 14px; color: #666;}</style>
 <div class="video-container"> <div class="video-with-caption"><video width="320" height="580" controls><source src="/images/FOC_Design/Motor_start-stop_forward_and_reverse_rotation.mp4" type="video/mp4"></video><p class="video-caption">Motor Start-Stop Forward and Reverse Rotation</p> </div><div class="video-with-caption"><video width="320" height="580" controls><source src="/images/FOC_Design/motor_speed-loop_control.mp4" type="video/mp4"></video><p class="video-caption">Motor Speed-Loop Control</p></div></div>
 
