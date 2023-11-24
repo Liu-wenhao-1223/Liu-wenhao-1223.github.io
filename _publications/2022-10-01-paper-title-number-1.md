@@ -9,9 +9,9 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Liu, Wenhao. &quot;Application of EEG in wearable brain-computer interfaces.&quot; <i>International Conference on
 Intelligent Traffic Systems and Smart City (ITSSC 2021).</i>. Vol. 12165. SPIE, 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+#This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://Liu-wenhao-514.github.io/files/Application_of_EEG_in_wearable_brain-computer_interfaces.pdf)
 
 Recommended citation: Liu, Wenhao. "Application of EEG in wearable brain-computer interfaces" <i>International Conference on
 Intelligent Traffic Systems and Smart City (ITSSC 2021)</i>. Vol. 12165. SPIE, 2022.
