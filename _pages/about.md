@@ -16,6 +16,8 @@ In the summer of my sophomore year in 2020, I had an internship related to Deep 
 
 In the summer of my sophomore year in 2021, I atteneded UCSD professor Mercier's online summer course about, which is about the design of Wearable electrocardiography (ECG)/EEG sensor technologies. During this course, I learned some basic knowledge of bioelectronic engineering, and I designed a low-power biomedical instrument amplifier for ECG/EEG detection in need of higher gain, specified bandwidth, high common-mode rejection ratio (CMRR) and low noise with my groupmate. After the course, I wrote and published a review of hardware design and machine learning algorithms for wearable EEG devices. With my current perspective, what I learned in writing this article is more valuable than itself.
 
+At the end of my undergraduate year, I chose to develop a motor controller as my graduate design because I have wanted to do something like this for a long time and one of my professors happend to have this topic.
+
 A 
 ======
 I will update as soon as possible.
