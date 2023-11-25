@@ -1,5 +1,5 @@
 ---
-title: 'Summary of EE general course selection guidelines'
+title: 'Summary of USC EE general course selection guidelines'
 date: 2023-10-27
 permalink: /notes/note_1/
 tags:
