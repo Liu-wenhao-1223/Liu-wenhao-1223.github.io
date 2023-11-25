@@ -30,6 +30,6 @@ In the 1980s, the development of permanent magnet materials, especially rubidium
 <div style="text-align: center;"> <img src="/images/FOC_Design/FOC_program_operation_schematic.png" alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">FOC program operation schematic</p> </div>
 <div style="text-align: center;"> <img src="/images/FOC_Design/program_flow_chart.png" alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Complete program flow chart</p> </div>
 
-
-
+<!--ADC采样图-->
+<div style="text-align: center;"> <img src="/images/FOC_Design/ADC_trigger_point.png" alt="Image Description" style="display: block; margin: auto;"> <p style="margin-top: 10px; font-size: 14px;">Timer channel 4 outputs PWM trigger ADC sampling</p> </div>
 
