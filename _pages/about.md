@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Wenhao Liu, and I come from Beijing in China. I'm a graduate student in University of Southern California right now, majoring Electrical Engineering. I completed my Bacholar of Science degree in Electrical Engineering and Automation from [Beijing Information Science & Technology University](https://www.bistu.edu.cn/) in China with a GPA of 86.8/100, fourth in the whole grade. During my undergraduate years, I learned various electrical specialized courses, such as Electrical Machinery, Power and Electronics Technology, Automatic Control Theory and many others. These courses helped me build a framework of the knowledge in elctrical field and trained my ability to use some tools like MATLAB, Altium Designer, AutoCAD, and Quartus. In addition, I have gained experience of using Python, Pytorch, Fusion 360, and STM32. 
+Hello! My name is Wenhao Liu, and I come from Beijing in China. I'm a graduate student in University of Southern California right now, majoring Electrical Engineering. I completed my Bacholar of Science degree in Electrical Engineering and Automation from [Beijing Information Science & Technology University](https://www.bistu.edu.cn/) in China with a GPA of 86.8/100, fourth in the whole grade. During my undergraduate years, I learned various electrical specialized courses, such as Electrical Machinery, Power and Electronics Technology, Automatic Control Theory, and many others. These courses helped me build a framework of knowledge in the electrical field and trained my ability to use some tools like MATLAB, Altium Designer, AutoCAD, and Quartus. In addition, I have gained experience of using Python, Pytorch, Fusion 360, and STM32. 
 
 Something I'm interested in
 ======
