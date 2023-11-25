@@ -5,6 +5,7 @@ permalink: /notes/note_1/
 tags:
   - Electrical and Computer Engineering
   - Computer Architecture
+  - VLSI(Digital) 
   - Machine Learning
   - Robotics
   - course selection
