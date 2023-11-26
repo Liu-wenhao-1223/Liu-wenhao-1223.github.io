@@ -16,9 +16,9 @@ In terms of study, I'm more inclined to learn and do some things that can have p
 
 My Skills
 ======
-<span style="font-size: 16px; font-weight: bold;">Programming Languages</span>: Python
-<span style="font-size: 16px; font-weight: bold;">Professional software</span>: MATLAB, Altium Designer, Quartus II, Fusion 360
-<span style="font-size: 16px; font-weight: bold;">Frameworks</span>: Pytorch, Qt
-<!--<span style="font-size: 16px; font-weight: bold;">Experimental instrument operation</span>: oscilloscope, digital power-->
+<span style="font-size: 16px; font-weight: bold;">Programming Languages</span>: Python<br>
+<span style="font-size: 16px; font-weight: bold;">Professional software</span>: MATLAB, Altium Designer, Quartus II, Fusion 360<br>
+<span style="font-size: 16px; font-weight: bold;">Frameworks</span>: Pytorch, Qt<br>
+<!--<span style="font-size: 16px; font-weight: bold;">Experimental instrument operation</span>: oscilloscope, digital power<br>-->
 
 
