@@ -14,6 +14,11 @@ In my spare time, I like making models by hand or by 3D printers. After I learne
 
 In terms of study, I'm more inclined to learn and do some things that can have practical applications like embedded systems and brain-computer interface. Because most of the projects I have been involved in since my undergraduate degree are hardware-oriented, I want to learn more about theory and algorithm application in engineering during my graduate study. Specifically, I'm interested in exploring the integration of computer vision with manipulators, both to satisfy my desire to explore and create something meaningful. 
 
-
+My Skills
+======
+<span style="font-size: 16px; font-weight: bold;">Programming Languages</span>: Python
+<span style="font-size: 16px; font-weight: bold;">Professional software</span>: MATLAB, Altium Designer, Quartus II, Fusion 360
+<span style="font-size: 16px; font-weight: bold;">Frameworks</span>: Pytorch, Qt
+<!--<span style="font-size: 16px; font-weight: bold;">Experimental instrument operation</span>: oscilloscope, digital power-->
 
 
