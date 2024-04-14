@@ -20,5 +20,7 @@ These are my notes on learning how to use Mujoco in Python. I record these just 
 
 I will keep updating this note. 
 ======
-
+<body>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ywJq6xbQTE7qGP51jvhZVo40N-Ri-H-ooaOLHxfg1nA&cl=ffffff&w=a"></script>
+</body>
 ------
